@@ -12,15 +12,15 @@ Mon terrain de prédilection : reprendre un patrimoine applicatif existant, l'au
 
 Ce que j'apporte :
 - Architecture : découpage de monolithes, microservices Spring Boot, conception de frameworks métier réutilisables (formulaires dynamiques, workflows, batchs).
-- DevOps : pipelines CI/CD complets (GitLab, Jenkins, Ansible, Docker, Kubernetes), tests end-to-end automatisés, migration vers le cloud.
-- Accompagnement d'équipes : lead technique, revue de code, formation et recrutement, de l'équipe projet jusqu'à une DSI de 100 développeurs.
+- DevOps : pipelines CI/CD complets (GitLab, Jenkins, Ansible, Docker, Kubernetes), tests end-to-end automatisés, supervision (Prometheus, Grafana), migration vers le cloud.
+- Accompagnement d'équipes : lead technique, revue de code, formation et recrutement, support d'une centaine de développeurs sur un framework commun.
 
 Disponible à partir d'octobre 2026.
 
 ## Compétences
 
 **Principales :** Java / JEE · Spring Boot / Spring Cloud / Spring Data · Kubernetes / Docker · Architecture microservices · CI/CD (Jenkins, GitLab)  
-**Secondaires :** Hibernate / JPA · Ansible · API REST · Scrum / XP · Linux · Oracle · GWT · SonarQube · Maven / Git  
+**Secondaires :** Hibernate / JPA · Ansible · Prometheus / Grafana · API REST · Scrum / XP · Linux · Oracle · GWT · SonarQube · Maven / Git  
 
 ## Expériences professionnelles
 
@@ -34,10 +34,11 @@ Disponible à partir d'octobre 2026.
 * Automatisation complète des pipelines de build, de test et de déploiement (GitLab, Jenkins, Ansible, Docker, Kubernetes).
 * Migration de la plateforme vers Google Cloud, avec pipelines GitLab et déploiement sur Kubernetes.
 * Mise en place de tests end-to-end automatisés couvrant toutes les applications, exécutés par Jenkins dans un cluster Kubernetes dédié.
+* Supervision des environnements internes de développement, de test et de recette, et des applications qui y sont déployées, avec Prometheus et Grafana.
 * Création d'un CRM interne : gestion des clients et de leurs licences produit, consolidation des environnements techniques on-premise. Chiffrement des licences et sécurisation de leur lecture par les applications.
 * Intégration d'assistants IA dans le développement pour accélérer le refactoring et la documentation du code.
 
-**Compétences :** Java · Spring Boot · Spring Cloud · Kubernetes · Docker · Jenkins · GitLab · Ansible · CI/CD · Google Cloud · Architecture microservices · Scrum
+**Compétences :** Java · Spring Boot · Spring Cloud · Kubernetes · Docker · Jenkins · GitLab · Ansible · Prometheus · Grafana · CI/CD · Google Cloud · Architecture microservices · Scrum
 
 ### Architecte logiciel / DevOps — CGI France
 
@@ -46,7 +47,7 @@ Disponible à partir d'octobre 2026.
 
 * Reprise de l'application auprès du prestataire sortant et audit technique du code existant, sans interruption de service.
 * Découpage du monolithe JEE en composants et frameworks réutilisables, et mise à jour technologique (Java 7, Tomcat 8, Hibernate 4, Spring 4).
-* Refonte DevOps de l'infrastructure : migration de Solaris vers Linux, construction des plateformes avec Ansible, Vagrant et Docker.
+* Refonte DevOps de l'infrastructure : migration de Solaris vers Linux, construction des plateformes avec Ansible et Docker.
 * Mise en place de la plateforme d'intégration continue Jenkins.
 * Lead technique et support d'une équipe de TMA de 25 ETP.
 * Responsable RH : entretiens annuels, suivi des missions, recrutements.
@@ -103,10 +104,10 @@ Disponible à partir d'octobre 2026.
 
 **octobre 2003 – 2004**  
 
-* Création du framework JRAF, devenu le socle de toutes les nouvelles applications Java d'Air France, avec son architecture de référence et sa documentation.
+* Participation au développement du framework JRAF, devenu le socle de toutes les nouvelles applications Java d'Air France.
 * Mise en place des tests de non-régression automatisés et d'une chaîne d'intégration continue (Maven).
 * Développement d'un générateur de code intégré à Eclipse pour accélérer le démarrage des nouveaux projets.
-* Référent technique et support au quotidien de 100 développeurs de la DSI.
+* Support technique, au sein d'une équipe de 3 personnes, de la centaine de développeurs utilisant le framework.
 
 **Compétences :** Java · J2EE · Spring · Hibernate · Maven · Eclipse · IoC · Intégration continue
 
